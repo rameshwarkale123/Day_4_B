@@ -1,0 +1,14 @@
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.exe
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.deps.json
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.runtimeconfig.json
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.runtimeconfig.dev.json
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.dll
+C:\Users\Rameshwar kale\D4B\DAY_4_B\bin\Debug\netcoreapp3.1\DAY_4_B.pdb
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.csproj.AssemblyReference.cache
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.AssemblyInfoInputs.cache
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.AssemblyInfo.cs
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.csproj.CoreCompileInputs.cache
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.dll
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.pdb
+C:\Users\Rameshwar kale\D4B\DAY_4_B\obj\Debug\netcoreapp3.1\DAY_4_B.genruntimeconfig.cache
